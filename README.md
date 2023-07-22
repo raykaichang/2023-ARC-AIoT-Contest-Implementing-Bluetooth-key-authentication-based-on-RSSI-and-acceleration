@@ -1,1 +1,0 @@
-# 2023-ARC-AIoT-Contest-Implementing-Bluetooth-key-authentication-based-on-RSSI-and-acceleration
